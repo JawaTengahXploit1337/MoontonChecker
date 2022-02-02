@@ -7,11 +7,11 @@
 
 ############################################################
 # Name           : Moonton Account Checker                 #
-# File           : proxy.py                              #
-# Author         : DulLah                                  #
-# Github         : https://github.com/dz-id                #
-# Facebook       : https://www.facebook.com/dulahz         #
-# Telegram       : https://t.me/DulLah                     #
+# File           : proxy.py                                #
+# Author         : DulLah & RayRz7                         #
+# Github         : https://github.com/JawaTengahXploit1337 #
+# Website        : https://s.id/HAXOR                      #
+# Donasi         : https://saweria.co/rayyhaxor            #
 # Python version : 3.7++                                   #
 ############################################################
 
